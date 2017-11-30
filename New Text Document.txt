@@ -1,0 +1,3 @@
+to add geojson:
+
+python "F:\geojson-mongo-import.py-master\geojson-mongo-import.py" -f "F:\geojson-mongo-import.py-master\points.geojson" -d geospatial -c points
